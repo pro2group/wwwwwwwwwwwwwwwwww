@@ -1,0 +1,562 @@
+{
+  "name": "i_phone_14_15_pro_max_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "BGMWYBBELTPNjPIPLXi2h5",
+    "node": "1:404",
+    "version": "5860246886",
+    "component-id": "b25a6a60231c604d94afa59af71af62ffcfb01f4"
+  },
+  "default": "Property 1=Default",
+  "documentation": "wqq",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "07 Card"
+      },
+      {
+        "type": "group",
+        "id": "Graphic"
+      },
+      {
+        "type": "group",
+        "id": "07 Card1"
+      },
+      {
+        "type": "text",
+        "id": "Европа готовится к началу войны с Россией, заявил Орбан"
+      },
+      {
+        "type": "group",
+        "id": "Graphic1"
+      },
+      {
+        "type": "text",
+        "id": "19.05.2024"
+      },
+      {
+        "type": "text",
+        "id": "Тюменские власти одобрили проект склада «Монетки» за 2,1 млрд рублей"
+      },
+      {
+        "type": "text",
+        "id": "18.05.2024"
+      },
+      {
+        "type": "text",
+        "id": "15.05.2024"
+      }
+    ],
+    "modes": {
+      "Property 1=Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "07 Card"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "07 Card",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 284.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 384.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Graphic"
+            ],
+            "item-spacing": 12.0,
+            "clip-content": false
+          },
+          {
+            "id": "Graphic",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 932.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "07 Card1",
+              "Европа готовится к началу войны с Россией, заявил Орбан",
+              "Graphic1",
+              "19.05.2024"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "07 Card1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 18.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 232.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 60.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "item-spacing": 12.0,
+            "clip-content": false
+          },
+          {
+            "id": "Европа готовится к началу войны с Россией, заявил Орбан",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 26.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 457.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "\nЕвропа готовится к началу \nвойны с \nРоссией, заявил Орбан",
+            "overflow": "visible",
+            "text-size": 30.0,
+            "letter-spacing": -1.2,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Graphic1",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 253.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 390.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 218.0
+              }
+            },
+            "is-structured": false,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "19.05.2024",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 281.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 228.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "19.05.2024",
+            "overflow": "visible",
+            "text-size": 25.0,
+            "letter-spacing": -1.0,
+            "typeface": "Inter"
+          }
+        ]
+      },
+      "Property 1=Variant2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "07 Card",
+              "Graphic"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "07 Card",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 284.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 384.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Graphic1"
+            ],
+            "item-spacing": 12.0,
+            "clip-content": false
+          },
+          {
+            "id": "Graphic",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 253.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 390.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 218.0
+              }
+            },
+            "is-structured": false,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Graphic1",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 429.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 934.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Тюменские власти одобрили проект склада «Монетки» за 2,1 млрд рублей",
+              "18.05.2024"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Тюменские власти одобрили проект склада «Монетки» за 2,1 млрд рублей",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 18.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 486.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 394.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "Тюменские власти одобрили проект склада \n«Монетки» за 2,1 млрд рублей",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 30.0,
+            "letter-spacing": -1.2,
+            "typeface": "Inter"
+          },
+          {
+            "id": "18.05.2024",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 283.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 225.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "18.05.2024",
+            "overflow": "visible",
+            "text-size": 25.0,
+            "letter-spacing": -1.0,
+            "typeface": "Inter"
+          }
+        ]
+      },
+      "Property 1=Variant3": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "07 Card",
+              "Graphic"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "07 Card",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 284.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 384.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Graphic1"
+            ],
+            "item-spacing": 12.0,
+            "clip-content": false
+          },
+          {
+            "id": "Graphic",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 219.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 390.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 218.0
+              }
+            },
+            "is-structured": false,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Graphic1",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 429.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 934.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "15.05.2024"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 208.8,
+              "saturation": 0.2941176470588235,
+              "value": 1.0
+            },
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "image",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "15.05.2024",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 282.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 193.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "15.05.2024",
+            "overflow": "visible",
+            "text-size": 25.0,
+            "letter-spacing": -1.0,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=Default",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    },
+    {
+      "design": "Property 1=Variant2",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    },
+    {
+      "design": "Property 1=Variant3",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
